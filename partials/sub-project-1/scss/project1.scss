@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+#cursor{
+    width: 75px;
+    height: 75px;
+    background-color: rgba(255, 0, 0, 0.432) ;
+    border-radius: 100%;
+    position: fixed;
+    outline: 0px solid rgba(243, 118, 118, 0.411);
+    transform: translate(-50% , -50%);
+    animation-name: wave;
+    animation-duration: 0.8s;
+    animation-iteration-count: infinite;
+    transition: opacity 05s ;
+    pointer-events: none;
+   
+}
+
+
+
+
+@keyframes wave{
+    from{
+        outline-width:5px ;
+    }
+ 
+    80% ,to{
+        outline-width:25px ;
+    }
+}
+
+
+
