@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Lato', sans-serif; }
+
+#output {
+  height: 85px;
+  background-color: rgba(139, 139, 37, 0.486);
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+#text {
+  font-size: 2rem; }
+
+#blinker {
+  display: inline-block;
+  width: 20px;
+  height: 3rem;
+  background-color: black;
+  animation-name: blink;
+  animation-duration: 1000ms;
+  animation-iteration-count: infinite; }
+
+@keyframes blink {
+  from {
+    opacity: 1;
+    background-color: red; }
+  70% {
+    opacity: 1;
+    background-color: black; }
+  to {
+    opacity: 0; } }
+
+/*# sourceMappingURL=project3.css.map */

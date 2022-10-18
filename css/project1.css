@@ -10,15 +10,12 @@
   animation-iteration-count: infinite;
   animation-duration: 0.8s;
   transition: opacity 0.5s;
-}
+  z-index: 999; }
 
 @keyframes wave {
   from {
-    outline-width: 2px;
-  }
+    outline-width: 2px; }
   60%, to {
-    outline-width: 22px;
-  }
-}
+    outline-width: 22px; } }
 
 /*# sourceMappingURL=project1.css.map */

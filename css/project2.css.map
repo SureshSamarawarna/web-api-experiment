@@ -1,1 +1,7 @@
-{"version":3,"sourceRoot":"","sources":["../scss/project2.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EAII","file":"project2.css"}
+{
+"version": 3,
+"mappings": "AAAA,CAAC;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;;AAG1B,IAAI;EAIA,QAAQ,EAAE,KAAK",
+"sources": ["../scss/project2.scss"],
+"names": [],
+"file": "project2.css"
+}

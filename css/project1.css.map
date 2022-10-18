@@ -1,1 +1,7 @@
-{"version":3,"sourceRoot":"","sources":["../scss/project1.scss"],"names":[],"mappings":"AACA;EACI;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;EACA;;;AAIJ;EACI;IACI;;EAGJ;IACI","file":"project1.css"}
+{
+"version": 3,
+"mappings": "AACA,OAAO;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,sBAAsB;EACxC,aAAa,EAAE,IAAI;EACnB,QAAQ,EAAE,KAAK;EACf,SAAS,EAAE,qBAAqB;EAChC,OAAO,EAAE,gCAAgC;EACzC,cAAc,EAAE,IAAI;EACpB,yBAAyB,EAAE,QAAQ;EACnC,kBAAkB,EAAE,IAAI;EACxB,UAAU,EAAE,YAAY;EAExB,OAAO,EAAE,GAAG;;AAGhB,eAQC;EAPG,IAAK;IACD,aAAa,EAAE,GAAG;EAGtB,OAAO;IACH,aAAa,EAAE,IAAI",
+"sources": ["../scss/project1.scss"],
+"names": [],
+"file": "project1.css"
+}
